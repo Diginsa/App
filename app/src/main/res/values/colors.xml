@@ -1,5 +1,6 @@
 <resources>
     <color name="bupoly_green">#0B6B3A</color>
+    <color name="bupoly_green_dark">#0A4C2A</color>
     <color name="bupoly_gold">#D4AF37</color>
     <color name="surface">#F7F9F8</color>
     <color name="text_primary">#183126</color>
