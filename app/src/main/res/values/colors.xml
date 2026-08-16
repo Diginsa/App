@@ -1,0 +1,8 @@
+<resources>
+    <color name="bupoly_green">#0B6B3A</color>
+    <color name="bupoly_gold">#D4AF37</color>
+    <color name="surface">#F7F9F8</color>
+    <color name="text_primary">#183126</color>
+    <color name="text_secondary">#66756D</color>
+    <color name="card_stroke">#D9E4DE</color>
+</resources>
